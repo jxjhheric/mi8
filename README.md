@@ -14,9 +14,9 @@ eu版是根据国内版改编的估计，少了广告和一些国内的软件，
 ### 1、解锁BL 刷TWRP
 现在新机解锁需要等待720小时，另外一种快速解锁的办法就是使用老的小米账号。
 
-解锁完后就可以刷twrp了，需要注意的是有些twrp是不带data解密功能的，这样刷入后通过内置的文件管理器看到的文件名都是乱码，可以通过data formatting清空内置存储后再输入第三方rom。建议直接刷入可以解密的TWRP。
+解锁完后就可以刷twrp了，需要注意的是有些twrp是不带data解密功能的，这样刷入后通过内置的文件管理器看到的文件名都是乱码，可以通过data formatting清空内置存储后再输入第三方rom。建议直接刷入可以解密的TWRP。刷lineageos的建议刷入此[TWRP](https://drive.google.com/open?id=1DhjsSCgAsI3oUA0mmzoiWTbRawubNFKi)
 
 ### 2、杂交固件
 先到eu的网站下载固件，再到国内网站下载对应的版本。
-在利用这个[mipay-extract工具](https://github.com/linusyang92/mipay-extract)生成对应的zip包刷入。
+在利用这个[mipay-extract工具](https://github.com/jxjhheric/mipay-extract)生成对应的zip包刷入。
 
