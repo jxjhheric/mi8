@@ -17,6 +17,6 @@ eu版是根据国内版改编的固件，少了广告和一些国内的软件，
 解锁完后就可以刷twrp了，需要注意的是有些twrp是不带data解密功能的，这样刷入后通过内置的文件管理器看到的文件名都是乱码，可以通过data formatting清空内置存储后再输入第三方rom。建议直接刷入可以解密的TWRP。刷lineageos的建议刷入此[TWRP](https://drive.google.com/open?id=1DhjsSCgAsI3oUA0mmzoiWTbRawubNFKi)
 
 ### 2、杂交固件
-先到eu的网站下载固件，再到国内网站下载对应的版本。
-在利用这个[mipay-extract工具](https://github.com/jxjhheric/mipay-extract)生成对应的zip包刷入。
+先到[eu的网站](https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/)下载固件，再到国内网站下载对应的版本。
+再利用这个[mipay-extract工具](https://github.com/jxjhheric/mipay-extract)生成对应的zip包刷入，即可拥有eu版miui和国内版的小米钱包啦。
 
